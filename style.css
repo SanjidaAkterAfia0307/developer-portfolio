@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 4rem;
+}
+span{
+    color: orange;
+}
+h3{
+    font-size: 30px;
+    font-weight: 600;
+}
+p{
+    font-size: 18px;
+    color: grey;
+    text-align: justify;
+}
+section{
+    display: flex;
+    
+}
+
+ .btn a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.btn button{
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    background-image: linear-gradient(to right,lightcoral,tomato);
+    border: none;
+    border-radius: 5px;
+    
+}
+
+.half-width{
+    width: 50%;
+    padding: 4% 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.top-banner{
+    background-image: url(developer-portfolio-master/images/top-banner.png);
+    background-repeat: no-repeat;
+}
